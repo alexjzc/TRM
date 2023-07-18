@@ -1,0 +1,1 @@
+este codigo permite hacer la simulacion de montecarlo para proyectar la TRM bajo el supuesto de Geometric Browniam motion + jump diffusion
